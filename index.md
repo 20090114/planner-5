@@ -1,10 +1,10 @@
 |Class                        |Assignment                                                  |
 |-----------------------------|------------------------------------------------------------|
 |**Class: Monday**            |**Assignment**                                              |
-| Geometry: Mr. Inman         | 8-3 Notes due tommorow                                     |
-| Concert Band: Mr. Bharttari | Chair Tests on Mon. Tues. and Weds.                        |
-| English 9: Mrs. Bloomer     | "Death at the Palace" study guide questions due tomorrow   |
-| Civics/Econ: Mr. Carlson    | None                                                       |
+| Geometry: Mr. Inman         | 6-4 Notes due tommorow                                     |
+| Concert Band: Mr. Bharttari | none                                                       |
+| English 9: Mrs. Bloomer     | None                                                       |
+| Civics/Econ: Mr. Carlson    | Finish ppt notes                                           |
 | Biology: Mrs. Fries         | None                                                       |
 |                             |                                                            |
 |**Class: Tuesday**           |**Assignment**                                              |
