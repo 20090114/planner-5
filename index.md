@@ -15,11 +15,11 @@
 | Biology: Mrs. Fries         | None                                                       |
 |                             |                                                            |
 |**Class: Wednesday**         |**Assignment**                                              |
-| Geometry: Mr. Inman         | None                                                       |
-| Concert Band: Mr. Bharttari | Chair Tests on Mon. Tues. and Weds.                        |
+| Geometry: Mr. Inman         | 6-6 notes due tommorow                                                       |
+| Concert Band: Mr. Bharttari | none                             |
 | English 9: Mrs. Bloomer     | None                                                       |
-| Civics/Econ: Mr. Carlson    | Working on Unit - 3 Review                                 |
-| Biology: Mrs. Fries         | Exam Today and Tomorrow                                    |
+| Civics/Econ: Mr. Carlson    | none                                      |
+| Biology: Mrs. Fries         | none                                   |
 |                             |                                                            |
 |**Class: Thursday**          |**Assignment**                                              |
 | Geometry: Mr. Inman         | Lesson 9-5 notes due tommorow                              |
